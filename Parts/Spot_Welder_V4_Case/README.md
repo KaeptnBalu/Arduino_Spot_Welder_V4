@@ -1,4 +1,5 @@
 These are the CAD files for the case. You can use these if you want to modify the case for your needs. The case was designed in Autodesk Fusion 360.
+Ready printed case with acessories can be bought here: https://malectrics.eu/product/arduino-spot-welder-v4-case-kit-copy/
 
 Additional hardware you need to mount the welder and the ANL 300A fuse in the case:
 
