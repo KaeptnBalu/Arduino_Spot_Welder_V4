@@ -51,7 +51,7 @@ You can get ready made welding cables, aluminum parts and pcb sets at www.malect
 |----------|----------------|------------------------------|----------------------------------|
 | 1        | Arduino Nano                                           |                                                     | [Banggood](https://ban.ggood.vip/15P6G)|
 | 1        | OLED Diplay 0,96" 128x64                               | take care of correct pinout (GND - VCC - SCL - SDA) | [Banggood](https://ban.ggood.vip/15P6J) |
-| 1        | Alu 90*15*4mm                                          | see alu_template.pdf                                | local hardware Store or  https://malectrics.eu/  |    
+| 1        | Alu 90x15x4mm                                          | see alu_template.pdf                                | local hardware Store or  https://malectrics.eu/  |    
 | 8        | M3x8 screw + nuts                                      | for Alu Parts assembly                              | local hardware store                     |
 | 2        | M3x20 screw                                            | to screw pcbs together                              | local hardware store                  |
 | 6        | M3 Nylon Nuts                                          | to screw pcbs together                              | Ebay or Aliexpress                      |
